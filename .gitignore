@@ -1,0 +1,14 @@
+# Java
+*.class
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Dados (Opcional: se quiseres que o CSV comece sempre limpo no Git)
+dados_atrasos.csv
+
+# Sistema
+.DS_Store
+Thumbs.db
